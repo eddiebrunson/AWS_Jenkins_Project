@@ -9,4 +9,3 @@ stage('Upload to AWS') {
               }
          }
      }
-}
